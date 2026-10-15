@@ -1,0 +1,11 @@
+node_modules/
+.env
+data/state.json
+data/posts.json
+data/*.local.json
+crops/
+.DS_Store
+*.log
+.tmp/
+DEMO_SCRIPT.md
+GROWTH_PLAN.md
